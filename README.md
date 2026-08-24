@@ -4,6 +4,8 @@ Aspiring Software Developer | DSA & Problem Solving | Web Development
 
 📍 Bengaluru, Karnataka
 🔗 [LinkedIn](https://www.linkedin.com/in/amit-kumar-889b53253)
+🔗 [Leetcode](https://leetcode.com/Amit_Kumar_08)
+🔗 [Portfolio](https://amit-kumar-portfolio08.netlify.app/)
 
 ---
 
