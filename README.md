@@ -27,9 +27,5 @@ Software Engineer | React.js · Node.js · Express.js · MySQL
 **Bluestock** — Software Development Engineer Intern (Feb–Mar 2025)
 Built reusable React.js components, integrated REST APIs, optimized rendering & state handling for responsive UI.
 
-## 📊 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumaramit0809&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaramit0809&layout=compact)
-
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/amit-kumar-889b53253) · devamit2361@gmail.com
