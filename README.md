@@ -22,7 +22,7 @@ Aspiring Software Developer | DSA & Problem Solving | Web Development
 ### 📌 Featured Projects
 - **[Movie Watchlist](https://github.com/Kumaramit0809/movie-watchlist)** — A web app to track and manage movies to watch, built with JavaScript.
 - **[LeetCode](https://github.com/Kumaramit0809/LeetCode)** — DSA problem solutions in C++, tracking consistent practice.
-- *(Add 1–2 more original projects here with a short one-line description each)*
+- 
 
 ### 📊 GitHub Stats
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumaramit0809&show_icons=true&theme=default)
