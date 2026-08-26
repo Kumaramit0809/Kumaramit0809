@@ -1,6 +1,6 @@
 # Hi, I'm Amit Kumar 👋
 
-Software Engineer | React.js · Node.js · Express.js · MySQL
+Aspiring Software Engineer | React.js · Node.js · Express.js · MySQL
 
 📍 Bengaluru, India
 🔗 [LinkedIn](https://www.linkedin.com/in/amit-kumar-889b53253) · 📧 devamit2361@gmail.com
