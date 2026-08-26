@@ -1,6 +1,6 @@
 # Hi, I'm Amit Kumar 👋
 
-Aspiring Software Engineer | React.js · Node.js · Express.js · MySQL
+Aspiring Software Engineer | React.js · Node.js · Express.js · MySQL 
 
 📍 Bengaluru, India
 🔗 [LinkedIn](https://www.linkedin.com/in/amit-kumar-889b53253) · 📧 devamit2361@gmail.com
@@ -25,7 +25,7 @@ Aspiring Software Engineer | React.js · Node.js · Express.js · MySQL
 
 ## 💼 Experience
 **Bluestock** — Software Development Engineer Intern (Feb–Mar 2025)
-Built reusable React.js components, integrated REST APIs, optimized rendering & state handling for responsive UI.
+Software Development Engineer Intern at Bluestock, where I worked on an IPO Information Portal using React.js, Tailwind CSS, and MySQL. Contributed to UI development, API integration, functional testing, debugging, and validating user flows and edge cases.
 
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/amit-kumar-889b53253) · devamit2361@gmail.com
