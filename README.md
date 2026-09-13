@@ -13,7 +13,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm currently sharpening my skills as a **fresher developer**, actively looking for opportunities in **Web Development**.
-- 💻 I enjoy building projects with **JavaScript** and solving problems with **C++ / DSA**.
+- 💻 I enjoy building projects with **JavaScript** and solving problems with **Python / DSA**.
 - 🌱 Currently strengthening my fundamentals in **Data Structures & Algorithms** and modern web frameworks.
 - 🤝 Open to **internships and full-time developer roles**.
 - ⚡ Fun fact: I like turning ideas into small working apps to learn by building.
@@ -63,8 +63,8 @@ A movie discovery app that lets users search for movies in real time using the O
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kumaramit0809&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaramit0809&layout=compact&hide_border=true" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kumaramit0809&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaramit0809&layout=compact&hide_border=true" /> -->
 </p>
 
 <p align="center">
@@ -78,6 +78,9 @@ A movie discovery app that lets users search for movies in real time using the O
 <p align="left">
   <a href="https://www.linkedin.com/in/amit-kumar-889b53253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:devamit2361@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
